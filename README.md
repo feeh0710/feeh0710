@@ -37,8 +37,7 @@ Sobre mim
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>I'm currently working at <strong>Foursys</strong>.</li>
+<li>🔭 I'm currently working at <strong>Foursys</strong>.</li>
  <li>📝 Learning about angular, flutter and apis.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/feeh0710/feeh0710">Github</a>.</li>
 </ul>
