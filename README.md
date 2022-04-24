@@ -22,6 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"  width="300" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark" width="200" height="200"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark"/> 
 </p>
