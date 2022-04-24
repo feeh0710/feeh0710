@@ -7,10 +7,7 @@ Sobre mim
 🔥 Alguns projetos Android(Java)
 
 
- <div>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark"/>
-</div>
+
 
 <div>
    <div>
@@ -53,5 +50,8 @@ Sobre mim
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+ <div>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark"/>
+</div>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
