@@ -9,7 +9,7 @@
 
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Fernando</a></h2>
 <p>I'm currently a Java developer at <strong><a href="https://www.foursys.com.br">Foursys</a></strong>. I'm working on some side projects, learning some new technologies and trying to conquer the world.</p>
-<p><a href="https://www.linkedin.com/in/luiz-fernando-da-silveira-01224584/"><img src="https://img.shields.io/badge/-%40fernando-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a><a href="mailto:luizfernando962@gmail.com"><img src="https://img.shields.io/badge/-%40fernando-BB001B?style=flat-square&amp;labelColor=BB001B;logo=Spotify&amp;" alt="Gmail Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/luiz-fernando-da-silveira-01224584/"><img src="https://img.shields.io/badge/-%40fernando-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/luiz-fernando-da-silveira-01224584" alt="LinkedIn Badge"></a><a href="mailto:luizfernando962@gmail.com"><img src="https://img.shields.io/badge/-%40fernando-BB001B?style=flat-square&amp;labelColor=BB001B;logo=Gmail&amp;" alt="Gmail Badge"></a></p>
 <p>☕ Don't forget to have some Coffee ☕</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
