@@ -21,7 +21,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
- <p align="left">    
-  <img src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark"/>
-</p>
+<ul>
+<li><img src="https://github-readme-stats.vercel.app/api?username=feeh0710&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"/></li>
+</ul>
+<ul>
+<li> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeh0710&langs_count=5&theme=dark"/></li>
+</ul>
